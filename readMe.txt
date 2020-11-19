@@ -1,0 +1,1 @@
+This document will save all small grams in order to stock different requirements concernant Java
